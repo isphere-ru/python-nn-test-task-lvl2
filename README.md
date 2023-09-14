@@ -73,6 +73,6 @@ $ docker-compose run --rm app ./app
 
 > Если в процессе выполнения у вас возникнут какие-либо неразрешимые вопросы - создайте [соответствующий issue][link_create_issue] в данном репозитории. На вопросы касательно деталей реализации ("А лучше так и так?") - вероятнее всего вы получите ответ "Как вы посчитаете правильнее".
 
-[badge_build]:https://github.com/isphere-ru/python-dev-test-task-lvl1/workflows/CI/badge.svg
-[link_build]:https://github.com/isphere-ru/python-dev-test-task-lvl1/actions
-[use_this_repo_template]:https://github.com/isphere-ru/python-dev-test-task-lvl1/generate
+[badge_build]:https://github.com/isphere-ru/python-nn-test-task-lvl2/workflows/CI/badge.svg
+[link_build]:https://github.com/isphere-ru/python-nn-test-task-lvl2/actions
+[use_this_repo_template]:https://github.com/isphere-ru/python-nn-test-task-lvl2/generate
